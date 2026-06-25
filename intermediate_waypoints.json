@@ -1,0 +1,1202 @@
+{
+  "inspection": {
+    "INSP_Target 11a\u2192Target 11": {
+      "from": "Target 11a",
+      "to": "Target 11",
+      "distance_mm": 33.71,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target11a_Target11_1",
+          "joints_deg": [
+            -79.9433,
+            39.0533,
+            31.62,
+            -70.1767,
+            29.9533,
+            119.9933
+          ],
+          "fk_xyzrpw": [
+            156.7995,
+            -1012.0045,
+            834.3341,
+            81.2717,
+            33.2051,
+            -23.0136
+          ],
+          "xyz_linear_ref": [
+            99.2587,
+            -886.7911,
+            891.3141
+          ]
+        },
+        {
+          "name": "IW_Target11a_Target11_2",
+          "joints_deg": [
+            -79.9467,
+            39.0567,
+            31.62,
+            -4.8833,
+            -30.8133,
+            59.9967
+          ],
+          "fk_xyzrpw": [
+            213.0017,
+            -973.5612,
+            911.5805,
+            33.7834,
+            22.8679,
+            -16.209
+          ],
+          "xyz_linear_ref": [
+            92.9527,
+            -890.3407,
+            882.718
+          ]
+        }
+      ]
+    },
+    "INSP_Target 13\u2192Target 15": {
+      "from": "Target 13",
+      "to": "Target 15",
+      "distance_mm": 276.96,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target13_Target15_1",
+          "joints_deg": [
+            -69.9767,
+            29.0633,
+            52.4667,
+            -105.4733,
+            -43.3333,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            430.9729,
+            -848.0976,
+            767.82,
+            -94.4359,
+            -17.0386,
+            -117.1314
+          ],
+          "xyz_linear_ref": [
+            367.7608,
+            -801.2973,
+            715.1599
+          ]
+        },
+        {
+          "name": "IW_Target13_Target15_2",
+          "joints_deg": [
+            -69.9733,
+            29.0567,
+            59.8333,
+            -85.8367,
+            4.6333,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            359.0781,
+            -912.8364,
+            706.9223,
+            -89.2275,
+            4.2388,
+            -164.5377
+          ],
+          "xyz_linear_ref": [
+            317.2835,
+            -844.5917,
+            651.1221
+          ]
+        }
+      ]
+    },
+    "INSP_Target 18\u2192Target 2": {
+      "from": "Target 18",
+      "to": "Target 2",
+      "distance_mm": 399.13,
+      "n_intermediates": 3,
+      "waypoints": [
+        {
+          "name": "IW_Target18_Target2_1",
+          "joints_deg": [
+            -80.2525,
+            22.9775,
+            64.305,
+            -49.505,
+            67.9625,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            93.7217,
+            -845.5425,
+            679.2112,
+            -127.5286,
+            16.6982,
+            117.0789
+          ],
+          "xyz_linear_ref": [
+            97.6189,
+            -757.2161,
+            725.2563
+          ]
+        },
+        {
+          "name": "IW_Target18_Target2_2",
+          "joints_deg": [
+            -81.535,
+            14.905,
+            71.41,
+            -34.8,
+            20.315,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            133.005,
+            -822.1524,
+            760.4356,
+            -111.4895,
+            52.2597,
+            159.4408
+          ],
+          "xyz_linear_ref": [
+            99.441,
+            -689.8284,
+            798.8238
+          ]
+        },
+        {
+          "name": "IW_Target18_Target2_3",
+          "joints_deg": [
+            -82.8175,
+            6.8325,
+            78.515,
+            -20.095,
+            -27.3325,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            144.9238,
+            -721.3634,
+            874.161,
+            -34.309,
+            52.5878,
+            -112.9752
+          ],
+          "xyz_linear_ref": [
+            101.2631,
+            -622.4406,
+            872.3913
+          ]
+        }
+      ]
+    },
+    "INSP_Target 3\u2192Target 4": {
+      "from": "Target 3",
+      "to": "Target 4",
+      "distance_mm": 393.18,
+      "n_intermediates": 3,
+      "waypoints": [
+        {
+          "name": "IW_Target3_Target4_1",
+          "joints_deg": [
+            -80.57,
+            25.475,
+            65.1775,
+            -33.1525,
+            -64.575,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            236.9504,
+            -851.3054,
+            796.7478,
+            -36.0529,
+            21.6974,
+            -95.2068
+          ],
+          "xyz_linear_ref": [
+            203.8674,
+            -841.2288,
+            782.7872
+          ]
+        },
+        {
+          "name": "IW_Target3_Target4_2",
+          "joints_deg": [
+            -77.04,
+            27.34,
+            64.995,
+            -60.915,
+            -54.17,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            322.6059,
+            -865.6995,
+            725.2316,
+            -67.0391,
+            18.503,
+            -109.6863
+          ],
+          "xyz_linear_ref": [
+            276.5074,
+            -855.0774,
+            718.0301
+          ]
+        },
+        {
+          "name": "IW_Target3_Target4_3",
+          "joints_deg": [
+            -73.51,
+            29.205,
+            64.8125,
+            -88.6775,
+            -43.765,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            382.251,
+            -874.9369,
+            650.3258,
+            -91.9912,
+            3.7319,
+            -119.8563
+          ],
+          "xyz_linear_ref": [
+            349.1474,
+            -868.9261,
+            653.2729
+          ]
+        }
+      ]
+    },
+    "INSP_Target 8a\u2192Target 9": {
+      "from": "Target 8a",
+      "to": "Target 9",
+      "distance_mm": 339.65,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target8a_Target9_1",
+          "joints_deg": [
+            -73.3033,
+            35.0633,
+            41.11,
+            -5.4167,
+            -62.5533,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            309.2614,
+            -875.6539,
+            910.706,
+            -5.4092,
+            13.5022,
+            -75.868
+          ],
+          "xyz_linear_ref": [
+            319.4158,
+            -872.1393,
+            868.4917
+          ]
+        },
+        {
+          "name": "IW_Target8a_Target9_2",
+          "joints_deg": [
+            -76.6367,
+            37.0667,
+            36.37,
+            33.4967,
+            -55.9267,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            199.4756,
+            -929.7263,
+            906.0141,
+            32.7691,
+            12.2211,
+            -58.1933
+          ],
+          "xyz_linear_ref": [
+            219.3018,
+            -924.9922,
+            869.673
+          ]
+        }
+      ]
+    },
+    "INSP_Target 6\u2192Target 7": {
+      "from": "Target 6",
+      "to": "Target 7",
+      "distance_mm": 270.5,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target6_Target7_1",
+          "joints_deg": [
+            -69.98,
+            30.4033,
+            54.9633,
+            -111.44,
+            -4.6933,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            380.4962,
+            -916.5601,
+            738.531,
+            -86.8721,
+            -21.6984,
+            -156.7639
+          ],
+          "xyz_linear_ref": [
+            376.9176,
+            -905.9042,
+            738.1305
+          ]
+        },
+        {
+          "name": "IW_Target6_Target7_2",
+          "joints_deg": [
+            -69.98,
+            29.7367,
+            48.2967,
+            -106.44,
+            -8.0267,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            380.6089,
+            -896.4528,
+            826.9233,
+            -79.9285,
+            -17.6439,
+            -155.2552
+          ],
+          "xyz_linear_ref": [
+            376.9501,
+            -885.7522,
+            826.0159
+          ]
+        }
+      ]
+    }
+  },
+  "retreat": {
+    "RET_Target 11\u2192Target 7": {
+      "from": "Target 11",
+      "to": "Target 7",
+      "distance_mm": 294.41,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target11_Target7_1",
+          "joints_deg": [
+            -76.6267,
+            35.73,
+            34.9567,
+            6.46,
+            -64.84,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            230.2464,
+            -872.5627,
+            960.3966,
+            6.1254,
+            5.7,
+            -73.8714
+          ],
+          "xyz_linear_ref": [
+            183.4254,
+            -884.4603,
+            887.3818
+          ]
+        },
+        {
+          "name": "IW_Target11_Target7_2",
+          "joints_deg": [
+            -73.3033,
+            32.4,
+            38.2933,
+            -47.49,
+            -38.1,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            353.8125,
+            -867.8992,
+            939.8972,
+            -46.784,
+            17.3276,
+            -110.7248
+          ],
+          "xyz_linear_ref": [
+            280.2041,
+            -875.0302,
+            900.6415
+          ]
+        }
+      ]
+    },
+    "RET_Target 7\u2192Target 4": {
+      "from": "Target 7",
+      "to": "Target 4",
+      "distance_mm": 328.9,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target7_Target4_1",
+          "joints_deg": [
+            -69.98,
+            29.7367,
+            49.2967,
+            -106.44,
+            -18.6933,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            399.7656,
+            -887.7156,
+            808.2264,
+            -84.4707,
+            -18.9145,
+            -143.7974
+          ],
+          "xyz_linear_ref": [
+            391.9176,
+            -871.325,
+            805.4395
+          ]
+        },
+        {
+          "name": "IW_Target7_Target4_2",
+          "joints_deg": [
+            -69.98,
+            30.4033,
+            56.9633,
+            -111.44,
+            -26.0267,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            414.9331,
+            -893.6356,
+            698.5328,
+            -97.2892,
+            -20.3817,
+            -133.1399
+          ],
+          "xyz_linear_ref": [
+            406.8525,
+            -877.0499,
+            696.9777
+          ]
+        }
+      ]
+    },
+    "RET_Target 4\u2192Target 1": {
+      "from": "Target 4",
+      "to": "Target 1",
+      "distance_mm": 970.53,
+      "n_intermediates": 2,
+      "waypoints": [
+        {
+          "name": "IW_Target4_Target1_1",
+          "joints_deg": [
+            -46.6533,
+            20.7133,
+            73.0867,
+            -77.6267,
+            -22.24,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            668.161,
+            -592.4386,
+            697.7465,
+            -88.8491,
+            12.8845,
+            -114.6954
+          ],
+          "xyz_linear_ref": [
+            507.8583,
+            -577.0145,
+            649.8439
+          ]
+        },
+        {
+          "name": "IW_Target4_Target1_2",
+          "joints_deg": [
+            -23.3267,
+            10.3567,
+            81.5433,
+            -38.8133,
+            -11.12,
+            -0.0
+          ],
+          "fk_xyzrpw": [
+            744.3493,
+            -267.4722,
+            758.1022,
+            -79.3622,
+            50.4022,
+            -98.0996
+          ],
+          "xyz_linear_ref": [
+            593.9291,
+            -271.2542,
+            711.1719
+          ]
+        }
+      ]
+    }
+  },
+  "motion_validation": {
+    "inspection": {
+      "INSP_Target 11a\u2192Target 11": [
+        {
+          "label": "IW_Target11a_Target11_1",
+          "commanded_joints": [
+            -79.9433,
+            39.0533,
+            31.62,
+            -70.1767,
+            29.9533,
+            119.9933
+          ],
+          "actual_joints": [
+            -79.9433,
+            39.0533,
+            31.62,
+            -70.1767,
+            29.9533,
+            119.9933
+          ],
+          "tcp_xyzrpw": [
+            156.7995,
+            -1012.0045,
+            834.3341,
+            81.2717,
+            33.2051,
+            -23.0136
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target11a_Target11_2",
+          "commanded_joints": [
+            -79.9467,
+            39.0567,
+            31.62,
+            -4.8833,
+            -30.8133,
+            59.9967
+          ],
+          "actual_joints": [
+            -79.9467,
+            39.0567,
+            31.62,
+            -4.8833,
+            -30.8133,
+            59.9967
+          ],
+          "tcp_xyzrpw": [
+            213.0017,
+            -973.5612,
+            911.5805,
+            33.7834,
+            22.8679,
+            -16.209
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "INSP_Target 13\u2192Target 15": [
+        {
+          "label": "IW_Target13_Target15_1",
+          "commanded_joints": [
+            -69.9767,
+            29.0633,
+            52.4667,
+            -105.4733,
+            -43.3333,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.9767,
+            29.0633,
+            52.4667,
+            -105.4733,
+            -43.3333,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            430.9729,
+            -848.0976,
+            767.82,
+            -94.4359,
+            -17.0386,
+            -117.1314
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target13_Target15_2",
+          "commanded_joints": [
+            -69.9733,
+            29.0567,
+            59.8333,
+            -85.8367,
+            4.6333,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.9733,
+            29.0567,
+            59.8333,
+            -85.8367,
+            4.6333,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            359.0781,
+            -912.8364,
+            706.9223,
+            -89.2275,
+            4.2388,
+            -164.5377
+          ],
+          "joint_ok": true,
+          "singularity": true,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "INSP_Target 18\u2192Target 2": [
+        {
+          "label": "IW_Target18_Target2_1",
+          "commanded_joints": [
+            -80.2525,
+            22.9775,
+            64.305,
+            -49.505,
+            67.9625,
+            -0.0
+          ],
+          "actual_joints": [
+            -80.2525,
+            22.9775,
+            64.305,
+            -49.505,
+            67.9625,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            93.7217,
+            -845.5425,
+            679.2112,
+            -127.5286,
+            16.6982,
+            117.0789
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target18_Target2_2",
+          "commanded_joints": [
+            -81.535,
+            14.905,
+            71.41,
+            -34.8,
+            20.315,
+            -0.0
+          ],
+          "actual_joints": [
+            -81.535,
+            14.905,
+            71.41,
+            -34.8,
+            20.315,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            133.005,
+            -822.1524,
+            760.4356,
+            -111.4895,
+            52.2597,
+            159.4408
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target18_Target2_3",
+          "commanded_joints": [
+            -82.8175,
+            6.8325,
+            78.515,
+            -20.095,
+            -27.3325,
+            -0.0
+          ],
+          "actual_joints": [
+            -82.8175,
+            6.8325,
+            78.515,
+            -20.095,
+            -27.3325,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            144.9238,
+            -721.3634,
+            874.161,
+            -34.309,
+            52.5878,
+            -112.9752
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "INSP_Target 3\u2192Target 4": [
+        {
+          "label": "IW_Target3_Target4_1",
+          "commanded_joints": [
+            -80.57,
+            25.475,
+            65.1775,
+            -33.1525,
+            -64.575,
+            -0.0
+          ],
+          "actual_joints": [
+            -80.57,
+            25.475,
+            65.1775,
+            -33.1525,
+            -64.575,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            236.9504,
+            -851.3054,
+            796.7478,
+            -36.0529,
+            21.6974,
+            -95.2068
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target3_Target4_2",
+          "commanded_joints": [
+            -77.04,
+            27.34,
+            64.995,
+            -60.915,
+            -54.17,
+            -0.0
+          ],
+          "actual_joints": [
+            -77.04,
+            27.34,
+            64.995,
+            -60.915,
+            -54.17,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            322.6059,
+            -865.6995,
+            725.2316,
+            -67.0391,
+            18.503,
+            -109.6863
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target3_Target4_3",
+          "commanded_joints": [
+            -73.51,
+            29.205,
+            64.8125,
+            -88.6775,
+            -43.765,
+            -0.0
+          ],
+          "actual_joints": [
+            -73.51,
+            29.205,
+            64.8125,
+            -88.6775,
+            -43.765,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            382.251,
+            -874.9369,
+            650.3258,
+            -91.9912,
+            3.7319,
+            -119.8563
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "INSP_Target 8a\u2192Target 9": [
+        {
+          "label": "IW_Target8a_Target9_1",
+          "commanded_joints": [
+            -73.3033,
+            35.0633,
+            41.11,
+            -5.4167,
+            -62.5533,
+            -0.0
+          ],
+          "actual_joints": [
+            -73.3033,
+            35.0633,
+            41.11,
+            -5.4167,
+            -62.5533,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            309.2614,
+            -875.6539,
+            910.706,
+            -5.4092,
+            13.5022,
+            -75.868
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target8a_Target9_2",
+          "commanded_joints": [
+            -76.6367,
+            37.0667,
+            36.37,
+            33.4967,
+            -55.9267,
+            -0.0
+          ],
+          "actual_joints": [
+            -76.6367,
+            37.0667,
+            36.37,
+            33.4967,
+            -55.9267,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            199.4756,
+            -929.7263,
+            906.0141,
+            32.7691,
+            12.2211,
+            -58.1933
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "INSP_Target 6\u2192Target 7": [
+        {
+          "label": "IW_Target6_Target7_1",
+          "commanded_joints": [
+            -69.98,
+            30.4033,
+            54.9633,
+            -111.44,
+            -4.6933,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.98,
+            30.4033,
+            54.9633,
+            -111.44,
+            -4.6933,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            380.4962,
+            -916.5601,
+            738.531,
+            -86.8721,
+            -21.6984,
+            -156.7639
+          ],
+          "joint_ok": true,
+          "singularity": true,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target6_Target7_2",
+          "commanded_joints": [
+            -69.98,
+            29.7367,
+            48.2967,
+            -106.44,
+            -8.0267,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.98,
+            29.7367,
+            48.2967,
+            -106.44,
+            -8.0267,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            380.6089,
+            -896.4528,
+            826.9233,
+            -79.9285,
+            -17.6439,
+            -155.2552
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ]
+    },
+    "retreat": {
+      "RET_Target 11\u2192Target 7": [
+        {
+          "label": "IW_Target11_Target7_1",
+          "commanded_joints": [
+            -76.6267,
+            35.73,
+            34.9567,
+            6.46,
+            -64.84,
+            -0.0
+          ],
+          "actual_joints": [
+            -76.6267,
+            35.73,
+            34.9567,
+            6.46,
+            -64.84,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            230.2464,
+            -872.5627,
+            960.3966,
+            6.1254,
+            5.7,
+            -73.8714
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target11_Target7_2",
+          "commanded_joints": [
+            -73.3033,
+            32.4,
+            38.2933,
+            -47.49,
+            -38.1,
+            -0.0
+          ],
+          "actual_joints": [
+            -73.3033,
+            32.4,
+            38.2933,
+            -47.49,
+            -38.1,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            353.8125,
+            -867.8992,
+            939.8972,
+            -46.784,
+            17.3276,
+            -110.7248
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "RET_Target 7\u2192Target 4": [
+        {
+          "label": "IW_Target7_Target4_1",
+          "commanded_joints": [
+            -69.98,
+            29.7367,
+            49.2967,
+            -106.44,
+            -18.6933,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.98,
+            29.7367,
+            49.2967,
+            -106.44,
+            -18.6933,
+            -0.0
+          ],
+          "tcp_xyzrpw": [
+            399.7656,
+            -887.7156,
+            808.2264,
+            -84.4707,
+            -18.9145,
+            -143.7974
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target7_Target4_2",
+          "commanded_joints": [
+            -69.98,
+            30.4033,
+            56.9633,
+            -111.44,
+            -26.0267,
+            -0.0
+          ],
+          "actual_joints": [
+            -69.98,
+            30.4033,
+            56.9633,
+            -111.44,
+            -26.0267,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            414.9331,
+            -893.6356,
+            698.5328,
+            -97.2892,
+            -20.3817,
+            -133.1399
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ],
+      "RET_Target 4\u2192Target 1": [
+        {
+          "label": "IW_Target4_Target1_1",
+          "commanded_joints": [
+            -46.6533,
+            20.7133,
+            73.0867,
+            -77.6267,
+            -22.24,
+            -0.0
+          ],
+          "actual_joints": [
+            -46.6533,
+            20.7133,
+            73.0867,
+            -77.6267,
+            -22.24,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            668.161,
+            -592.4386,
+            697.7465,
+            -88.8491,
+            12.8845,
+            -114.6954
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        },
+        {
+          "label": "IW_Target4_Target1_2",
+          "commanded_joints": [
+            -23.3267,
+            10.3567,
+            81.5433,
+            -38.8133,
+            -11.12,
+            -0.0
+          ],
+          "actual_joints": [
+            -23.3267,
+            10.3567,
+            81.5433,
+            -38.8133,
+            -11.12,
+            0.0
+          ],
+          "tcp_xyzrpw": [
+            744.3493,
+            -267.4722,
+            758.1022,
+            -79.3622,
+            50.4022,
+            -98.0996
+          ],
+          "joint_ok": true,
+          "singularity": false,
+          "workspace_ok": true,
+          "max_tracking_error_deg": 0.0
+        }
+      ]
+    }
+  }
+}
