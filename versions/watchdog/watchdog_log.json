@@ -1,0 +1,11 @@
+{"ts": "2026-06-30T17:35:46.494907", "event": "WATCHDOG_STARTED"}
+{"ts": "2026-06-30T17:35:46.495470", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T17:37:00.212309", "event": "MAIN_EXITED_CLEAN", "exit_code": 0}
+{"ts": "2026-06-30T17:37:00.212309", "event": "WATCHDOG_STOPPED"}
+{"ts": "2026-06-30T17:37:37.911832", "event": "WATCHDOG_STARTED"}
+{"ts": "2026-06-30T17:37:37.911832", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T17:38:27.823349", "event": "MAIN_CRASHED", "exit_code": 4294967295}
+{"ts": "2026-06-30T17:38:27.824031", "event": "RESTARTING", "delay_sec": 3, "restart_count": 1}
+{"ts": "2026-06-30T17:38:30.825716", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T17:39:50.127489", "event": "MAIN_EXITED_CLEAN", "exit_code": 0}
+{"ts": "2026-06-30T17:39:50.128529", "event": "WATCHDOG_STOPPED"}
