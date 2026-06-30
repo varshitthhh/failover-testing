@@ -1,0 +1,24 @@
+{"ts": "2026-06-30T22:28:25.855307", "event": "WATCHDOG_STARTED"}
+{"ts": "2026-06-30T22:28:25.859569", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:26.879712", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:26.882736", "event": "RESTARTING", "delay_sec": 3, "restart_count": 1}
+{"ts": "2026-06-30T22:28:29.893288", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:30.929830", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:30.935402", "event": "RESTARTING", "delay_sec": 3, "restart_count": 2}
+{"ts": "2026-06-30T22:28:33.944113", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:34.967132", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:34.979290", "event": "RESTARTING", "delay_sec": 3, "restart_count": 3}
+{"ts": "2026-06-30T22:28:37.994941", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:39.014633", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:39.022391", "event": "RESTARTING", "delay_sec": 3, "restart_count": 4}
+{"ts": "2026-06-30T22:28:42.028642", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:43.050530", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:43.062983", "event": "RESTARTING", "delay_sec": 3, "restart_count": 5}
+{"ts": "2026-06-30T22:28:46.067787", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:28:47.112403", "event": "MAIN_CRASHED", "exit_code": 2}
+{"ts": "2026-06-30T22:28:47.125490", "event": "RESTART_LIMIT_EXCEEDED", "restarts": 6, "window_sec": 600}
+{"ts": "2026-06-30T22:28:47.139107", "event": "WATCHDOG_STOPPED"}
+{"ts": "2026-06-30T22:30:52.258910", "event": "WATCHDOG_STARTED"}
+{"ts": "2026-06-30T22:30:52.258910", "event": "LAUNCHING_MAIN"}
+{"ts": "2026-06-30T22:31:27.576337", "event": "MAIN_EXITED_CLEAN", "exit_code": 0}
+{"ts": "2026-06-30T22:31:27.587271", "event": "WATCHDOG_STOPPED"}
