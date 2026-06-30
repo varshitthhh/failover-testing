@@ -11,7 +11,7 @@ SIGNAL_FILE = "failure_signal.json"
 # ── Fix: checkpoint.json is in parent directory ──
 def get_checkpoint_path():
     """Return path to checkpoint.json (in parent directory)"""
-    return os.path.join("..", os.path.join("..", os.path.join("..", "checkpoint.json")))
+    return "checkpoint.json"
 
 # ── Fix: Also ensure failure_signal.json is in root ──
 # SIGNAL_FILE stays as "failure_signal.json" (in root, since scripts run from src/)
@@ -71,7 +71,7 @@ def wait_for_pose(target_index: int, target_name: str, poll_interval=0.3):
     last_index = -1
     
     # ── FIX: checkpoint.json is in parent directory ──
-    checkpoint_path = os.path.join("..", os.path.join("..", os.path.join("..", "checkpoint.json")))
+    checkpoint_path = "checkpoint.json"
     
     while True:
         time.sleep(poll_interval)
