@@ -18,7 +18,7 @@
 import time
 import json
 import os
-from .inject_base import (
+from inject_base import (
     print_header, pick_subfailure, pick_pose,
     write_signal, wait_for_pose, SIGNAL_FILE
 )
